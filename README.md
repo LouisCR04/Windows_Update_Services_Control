@@ -8,9 +8,9 @@ Contributing
 License
 
 Features
-Automatically stops Windows Update services.
-Provides elevated privileges for service control.
-Requirements
+. Automatically stops Windows Update services.
+. Provides elevated privileges for service control.
+. Requirements
 
 Windows operating system
 PowerShell (version 5.1 or later recommended)
